@@ -24,6 +24,7 @@ html {
 
 .grid__full-width {
     width: 100%;
+    padding: 0;
 }
 
 .grid__row {
