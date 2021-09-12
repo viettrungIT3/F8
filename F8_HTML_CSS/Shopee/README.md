@@ -8,3 +8,4 @@
 - [Bài 75. Navbar CSS](https://fullstack.edu.vn/learning/html-css?id=2173)
 - [Bài 76. Nhúng Font-Icons](https://fullstack.edu.vn/learning/html-css?id=2174)
 - [Bài 77. Icons CSS](https://fullstack.edu.vn/learning/html-css?id=2175)
+- [Bài 78. Header QR code CSS](https://fullstack.edu.vn/learning/html-css?id=2176)
