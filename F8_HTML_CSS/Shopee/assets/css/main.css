@@ -116,3 +116,117 @@
     height: 16px;
 }
 
+/* Header notification  */
+.header__notify {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    width: 400px;
+    border: 1px solid #D3D3D3;
+    border-radius: 4px;
+    background-color: var(--while-color);
+    cursor: default;
+    transform-origin: calc( 100% - 20px) top;
+    animation: headerNotifyGrowth ease 0.25s;
+    will-change: opacity, transform;
+    display: none;
+}
+
+.header__notify::before {
+    content: "";
+    border-width: 10px 14px;
+    border-style: solid;
+    border-color: transparent transparent var(--while-color) transparent;
+    position: absolute;
+    top: -18px;
+    right: 20px;
+    z-index: 9000;
+}
+
+.header_navbar-item-has-notify:hover .header__notify {
+    display: block;
+}
+
+@keyframes headerNotifyGrowth {
+    from {
+        opacity: 0;
+        transform: scale(0);
+    }
+    to {
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+
+.header__notify-header {
+    height: 40px;
+}
+
+.header__notify-header h3{
+    text-transform: capitalize;
+    color: rgba(0,0,0,.28);
+    padding: 0 12px;
+    margin: 0;
+    /* height: 2.5rem; */
+    font-weight: 400;
+    font-size: 1.4rem;
+    line-height: 40px;
+    user-select: none;
+}
+
+.header__notify-list {
+    margin: 0;
+    padding: 0;
+}
+
+.header__notify-item {
+    list-style: none;
+    padding: 8px 12px;
+    background-color: rgb(238, 238, 238 , 0.6);
+}
+.header__notify-item:hover {
+    background-color: rgb(238, 238, 238, 0.4);
+}
+
+.header__notify-link {
+    display: flex;
+    color: var(--black-color);
+    text-decoration: none;
+}
+
+
+.header__notify-img {
+    width: 10%;
+    object-fit: contain;
+    align-self: flex-start;
+}
+
+.header__notify-info {
+    width: 90%;
+    margin-left: 12px;
+}
+
+.header__notify-name {
+    font-size: 1.4rem;
+    margin-bottom: 4px;
+    font-weight: 400;
+    opacity: 0.8;
+}
+
+.header__notify-description {
+    color: rgba(0,0,0,.54);
+    word-wrap: break-word;
+    font-size: 1.2rem; 
+    line-height: 1.6rem;
+}
+
+.header__notify-footer {
+    display: flex;
+}
+
+.header__notify-footer-link {
+    margin: 0 auto;
+    padding: 8px 16px;
+    color: var(--text-color);
+    text-decoration: none;
+}

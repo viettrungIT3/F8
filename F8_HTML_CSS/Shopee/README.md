@@ -9,3 +9,7 @@
 - [Bài 76. Nhúng Font-Icons](https://fullstack.edu.vn/learning/html-css?id=2174)
 - [Bài 77. Icons CSS](https://fullstack.edu.vn/learning/html-css?id=2175)
 - [Bài 78. Header QR code CSS](https://fullstack.edu.vn/learning/html-css?id=2176)
+- [Bài 79. Header notification CSS - Phần 1](https://fullstack.edu.vn/learning/html-css?id=2177)
+- [Bài 80. Header notification CSS - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2178)
+- [Bài 81. Header notification CSS - Phần 3](https://fullstack.edu.vn/learning/html-css?id=2179)
+- [Bài 82. Header notification CSS - Phần 4](https://fullstack.edu.vn/learning/html-css?id=2180)
