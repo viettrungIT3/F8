@@ -15,3 +15,5 @@
 - [Bài 82. Header notification CSS - Phần 4](https://fullstack.edu.vn/learning/html-css?id=2180)
 - [Bài 83. Base modal](https://fullstack.edu.vn/learning/html-css?id=2181)
 - [Bài 84. Dựng khung form đăng ký](https://fullstack.edu.vn/learning/html-css?id=2182)
+- [Bài 85. CSS form đăng ký - Phần 1](https://fullstack.edu.vn/learning/html-css?id=2183)
+- [Bài 86. CSS form đăng ký - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2184)

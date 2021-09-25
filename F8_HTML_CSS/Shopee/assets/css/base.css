@@ -3,6 +3,7 @@
     --while-color: #fff;
     --black-color: #000;
     --text-color: #333;
+    --border-color: #bdbdbb;
 }
 
 * {
@@ -33,33 +34,40 @@ html {
     flex-wrap: wrap;
 }
 
-/* Modal  */
-.modal {
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+/* Button style  */
+.btn {
+    min-width: 142px;
+    height: 34px;
+    text-decoration: none;
+    background-color: #fff;
+    border: none;
+    border-radius: 2px;
+    font-size: 1.5rem;
+    padding: 0 12px;
+    outline: none;
+    cursor: pointer;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.modal__overlay {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    background-color: rgba( 0, 0, 0, 0.3);
+.btn.btn--normal:hover {
+    background-color: rgba(0, 0, 0, 0.05);
 }
 
-.modal__body {
-    position: relative;
-    margin: auto;
-    /* width: 300px;
-    height: 300px; */
-    background-color: var(--while-color);
-    border-radius: 5px;
-    z-index: 1;
+.btn--size-s {
+    height: 32px;
+    font-size: 1.2rem;
+    padding: 0 8px;
 }
 
-.modal__inner {
-
+.btn.btn--primary {
+    color: var(--while-color);
+    background-color: var(--primary-color);
 }
+
+.btn.btn--disabled {
+    cursor: default;
+    filter: brightness(80%);
+}
+
