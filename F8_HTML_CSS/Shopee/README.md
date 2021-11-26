@@ -23,3 +23,4 @@
 - [Bài 88. Modal animation](https://fullstack.edu.vn/learning/html-css?id=2186)
 - [Bài 89. Dựng khung phần tìm kiếm](https://fullstack.edu.vn/learning/html-css?id=2187)
 - [Bài 90. Header tìm kiếm CSS](https://fullstack.edu.vn/learning/html-css?id=2188)
+- [Bài 91. Lịch sử tìm kiếm CSS](https://fullstack.edu.vn/learning/html-css?id=2189)
