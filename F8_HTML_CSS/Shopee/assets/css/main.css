@@ -15,7 +15,7 @@
 .header_navbar-list {
     list-style: none;
     padding-left: 0;
-    /* margin-top: 4px; */
+    margin: 4px 0 0 0;
 }
 
 .header_navbar-item {
@@ -219,4 +219,36 @@
     padding: 8px 16px;
     color: var(--text-color);
     text-decoration: none;
+}
+
+/* Header with search */
+.header-with-search {
+    height: var(--header-with-search-height);
+    display: flex;
+    align-items: center
+}
+
+.header__logo {
+    width: 200px;
+}
+
+.header__logo-img {
+    width: 150px;
+}
+
+.header__search {
+    flex: 1;
+    height: 40px;
+    border-radius: 2px;
+    background: var(--while-color);
+}
+
+.header__cart {
+    width: 150px;
+    text-align: center;
+}
+
+.header__cart--icon {
+    font-size: 2.4rem;
+    color: var(--while-color);
 }
