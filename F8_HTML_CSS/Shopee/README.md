@@ -20,3 +20,4 @@
 - [Bài 85. CSS form đăng ký - Phần 1](https://fullstack.edu.vn/learning/html-css?id=2183)
 - [Bài 86. CSS form đăng ký - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2184)
 - [Bài 87. CSS form đăng nhập](https://fullstack.edu.vn/learning/html-css?id=2185)
+- [Bài 88. Modal animation](https://fullstack.edu.vn/learning/html-css?id=2186)
