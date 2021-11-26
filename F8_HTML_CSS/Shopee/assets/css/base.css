@@ -49,6 +49,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
+    line-height: 0;
 }
 
 .btn.btn--normal:hover {
@@ -71,3 +72,6 @@ html {
     filter: brightness(80%);
 }
 
+.hide {
+    display: none;
+}
