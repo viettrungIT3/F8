@@ -88,7 +88,8 @@
     padding: 4px;
     border-radius: 2px;
     display: none;
-    animation: fadeIn ease-in 1s;
+    animation: fadeIn ease 1s;
+    z-index: 2;
 }
 
 .header_navbar-item-has-qr:hover .header__qr {
@@ -444,6 +445,20 @@
 .header__cart--icon {
     font-size: 3rem;
     color: var(--while-color);
+    position: relative;
+}
+
+.header__cart-notice {
+    position: absolute;
+    top: -6px;
+    right: -10px;
+    padding: 0px 4px;
+    font-size: 1.4rem;
+    border-radius: 10px;
+    border: 2px solid var(--primary-color);
+    color: var(--primary-color);
+    background: var(--while-color);
+    
 }
 
 .header__cart-list {
@@ -483,11 +498,18 @@
 
 .header__cart-img-no-cart{
     width: 60%;
+    display: none;
 }
 
 .header__cart-list-no-cart-message{
-    display: block;
+    display: none;
     font-size: 1.4rem;
     color: var(--text-color);
     /* margin-top: 14px; */
 }
+
+.header__cart-list-no-cart .header__cart-img-no-cart ,
+.header__cart-list-no-cart .header__cart-list-no-cart-message{
+    display: block;
+    margin: auto;
+} 
