@@ -28,3 +28,4 @@
 - [Bài 93. Header cart badge](https://fullstack.edu.vn/learning/html-css?id=2191)
 - [Bài 94. Header cart - List products](https://fullstack.edu.vn/learning/html-css?id=2192)
 - [Bài 95. Header user info](https://fullstack.edu.vn/learning/html-css?id=2193)
+- [Bài 96. Header fix UI bugs](https://fullstack.edu.vn/learning/html-css?id=2194)
