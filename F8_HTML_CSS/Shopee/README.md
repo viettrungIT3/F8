@@ -27,3 +27,4 @@
 - [Bài 92. Header giỏ hàng trống CSS](https://fullstack.edu.vn/learning/html-css?id=2190)
 - [Bài 93. Header cart badge](https://fullstack.edu.vn/learning/html-css?id=2191)
 - [Bài 94. Header cart - List products](https://fullstack.edu.vn/learning/html-css?id=2192)
+- [Bài 95. Header user info](https://fullstack.edu.vn/learning/html-css?id=2193)
