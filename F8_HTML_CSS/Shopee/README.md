@@ -30,3 +30,4 @@
 - [Bài 95. Header user info](https://fullstack.edu.vn/learning/html-css?id=2193)
 - [Bài 96. Header fix UI bugs](https://fullstack.edu.vn/learning/html-css?id=2194)
 - [Bài 97. Danh mục: Dựng khung](https://fullstack.edu.vn/learning/html-css?id=2195)
+- [Bài 98. Danh mục: Base responsive](https://fullstack.edu.vn/learning/html-css?id=2196)
