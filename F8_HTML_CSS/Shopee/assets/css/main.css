@@ -704,15 +704,20 @@
     background: #f5f5f5;
 }
 
+.app__content {
+    padding-top: 36px;
+}
+
 .category{
     background: var(--while-color);
     border-radius: 2px;
 }
 
 .category__heading{
-    color: var(--text-color);
-    font-size: 1.6rem;
+    margin: 0;
     padding: 8px 16px;
+    color: var(--text-color);
+    font-size: 1.8rem;
     border-bottom: 1px solid rgba(0, 0, 0, .05);
 }
 
