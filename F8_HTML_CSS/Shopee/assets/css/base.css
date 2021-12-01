@@ -115,3 +115,58 @@ html {
     }
 }
 
+/* Select */
+.select-input{
+    position: relative;
+    min-width: 200px;
+    height: 34px;
+    padding: 0 12px;
+    background-color: #fff;
+    border-radius: 2px;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.select-input__lable{
+
+}
+
+.select-input__icon {
+    cursor: pointer;
+    color: var(--text-color);
+}
+.select-input:hover .select-input__list{
+    display: block;
+}
+
+.select-input__list{
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 100%;
+    margin:  0;
+    padding: 0;
+    list-style: none;
+    box-shadow: 1px 1px 3px #ccc;
+    border-top: 1px solid rgba(0, 0, 0, 0.03);
+    background-color: #fff;
+    display: none;
+    z-index: 3;
+}
+
+.select-input__item{
+    font-size: 1.3rem;
+}
+
+.select-input__link{
+    padding: 4px 12px;
+    display: block;
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.select-input__link:hover{
+    color: var(--primary-color);
+}

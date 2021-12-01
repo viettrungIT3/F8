@@ -319,19 +319,28 @@
                     <div class="grid__column-10">
                         <div class="content-home-filter">
                             <span class="content-home-filter__lable">Sắp xếp theo</span>
-                            <button class="btn">Phổ biến</button>
-                            <button class="btn btn--primary">Mới nhất</button>
-                            <button class="btn">Bán chạy</button>
+                            <button class="content-home-filter-btn btn">Phổ biến</button>
+                            <button class="content-home-filter-btn btn btn--primary">Mới nhất</button>
+                            <button class="content-home-filter-btn btn">Bán chạy</button>
 
-                            <div class="content-home-filter-select-input">
-                                <span class="content-home-filter-select-input__lable">Giá</span>
-                                <i class="fas fa-angle-down"></i>
+                            <div class="select-input">
+                                <span class="select-input__lable">Giá</span>
+                                <i class="select-input__icon fas fa-angle-down"></i>
+
+                                <ul class="select-input__list">
+                                    <li class="select-input__item">
+                                        <a href="#" class="select-input__link">Giá: Từ Cao đến Thấp</a>
+                                    </li>
+                                    <li class="select-input__item">
+                                        <a href="#" class="select-input__link">Giá: Từ Thấp đến Cao</a>
+                                    </li>
+                                </ul>
                             </div>
 
                             <div class="content-home-filter__page">
                                 <span class="content-home-filter__page-num"><span class="content-home-filter__page-num-current">1</span>/14</span>
                                 <div class="content-home-filter__page-control">
-                                    <a href="#" class="content-home-filter__page-control-btn">
+                                    <a href="#" class="content-home-filter__page-control-btn content-home-filter__page-control-btn--disabled">
                                         <i class="fas fa-angle-left"></i>
                                     </a>
                                     <a href="#" class="content-home-filter__page-control-btn">
