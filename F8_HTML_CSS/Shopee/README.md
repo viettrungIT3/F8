@@ -37,3 +37,6 @@
 * [Bài 102. Dựng khung sản phẩm](https://fullstack.edu.vn/learning/html-css?id=2200)
 * [Bài 103. Sản phẩm CSS](https://fullstack.edu.vn/learning/html-css?id=2201)
 * [Bài 104. Sản phẩm CSS - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2202)
+    * Note: Bài 104, mình có thêm phần 
+        * JS onclick like(heart)
+        * JS onclick rating(star)
