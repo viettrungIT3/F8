@@ -913,18 +913,34 @@
 }
 
 
+.product-item__rating {
+    margin-left: auto;
+}
+
 .product-item__rating i{
     transform: scale(0.9);
     transform-origin: right;
     color: #B5B5B5;
     cursor: pointer;
 }
+
 .product-item__rating i.rating__star{
     color: #ffce3d;
     fill: #ffce3d;
 }
 
+.product-item__sold{
+    font-size: 1.1rem;
+    color: var(--text-color);
+    margin-left: 4px;
+}
+
 .product-item__origin{
+    display: flex;
+    justify-content: space-between;
+    margin: auto 10px;
+    font-size: 1.2rem;
+    color: rgba(0, 0, 0, .65);
 
 }
 

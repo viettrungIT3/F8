@@ -38,5 +38,6 @@
 * [Bài 103. Sản phẩm CSS](https://fullstack.edu.vn/learning/html-css?id=2201)
 * [Bài 104. Sản phẩm CSS - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2202)
     * Note: Bài 104, mình có thêm phần 
-        * JS onclick like(heart)
-        * JS onclick rating(star)
+        * [JS onclick like(heart)](https://github.com/viettrungIT3/F8/commit/b396a5e2d2d290d2c5ba2ba4c8c154fc568fe9cf)
+        * [JS onclick rating(star)](https://github.com/viettrungIT3/F8/commit/b396a5e2d2d290d2c5ba2ba4c8c154fc568fe9cf)
+* [Bài 104. Sản phẩm CSS - Phần 3](https://fullstack.edu.vn/learning/html-css?id=2203)
