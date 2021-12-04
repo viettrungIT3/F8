@@ -43,3 +43,4 @@
 * [Bài 105. Sản phẩm CSS - Phần 3](https://fullstack.edu.vn/learning/html-css?id=2203)
 * [Bài 106. Sản phẩm: CSS nhãn yêu thích](https://fullstack.edu.vn/learning/html-css?id=2204)
 * [Bài 107. Sản phẩm: CSS nhãn giảm giá](https://fullstack.edu.vn/learning/html-css?id=2205)
+* [Bài 108. Hoàn thiện phần nội dung sản phẩm](https://fullstack.edu.vn/learning/html-css?id=2206)
