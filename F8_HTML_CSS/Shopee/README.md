@@ -45,3 +45,6 @@
 * [Bài 107. Sản phẩm: CSS nhãn giảm giá](https://fullstack.edu.vn/learning/html-css?id=2205)
 * [Bài 108. Hoàn thiện phần nội dung sản phẩm](https://fullstack.edu.vn/learning/html-css?id=2206)
 * [Bài 109. Fix UI bugs - Phần 2](https://fullstack.edu.vn/learning/html-css?id=2207)
+* [Bài 110. Pagination UI](https://fullstack.edu.vn/learning/html-css?id=2208)
+* [Bài 111. Dựng khung Footer](https://fullstack.edu.vn/learning/html-css?id=2209)
+* [Bài 112. Footer CSS](https://fullstack.edu.vn/learning/html-css?id=2210)
