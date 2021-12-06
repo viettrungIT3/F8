@@ -920,8 +920,6 @@
     cursor: pointer;
 }
 
-.product-item__like--liked {}
-
 .product-item__like--liked .product-item__like-icon-empty {
     display: none;
 }
@@ -966,10 +964,6 @@
     color: rgba(0, 0, 0, .65);
 
 }
-
-.product-item__brand {}
-
-.product-item__origin-name {}
 
 .product-item__favourite {
     position: absolute;
@@ -1041,4 +1035,8 @@
     color: var(--while-color);
     font-size: 1.4rem;
     font-weight: 500;
+}
+
+.content-home-pagination {
+    margin: 48px 0 32px;
 }
