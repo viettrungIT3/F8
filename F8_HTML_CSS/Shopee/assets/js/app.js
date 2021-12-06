@@ -30,3 +30,5 @@ function executeRating(stars) {
     });
 }
 executeRating(ratingStars);
+
+// Done 06/12/2021
